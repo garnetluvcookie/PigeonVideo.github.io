@@ -15,11 +15,11 @@ A word and some numbers; you could argue that it's a good combination, but you'r
 Like, "Motorcycle23" is a bad example; it's 12 characters long, but not safe enough
 
 Those were bad password examples, but how to make a good password?<br>
-Use. Random. Characters!!!
+**Use. Random. Characters!!!**
 A good example of a password is "zxczxc6o8"<br>
 It has unguessable characters, you can't just hack that easily!
 
-**Throwing in some special characters**<br>
+**Throw in some special characters**<br>
 Now, special characters and capitals are needed for a good password.
 Let's look at one password: "Il0vEM0teRCylce$!"
 It's a great password. Using somewords and one special character is not enough. Throw in some numbers and capitals, and special characters!
