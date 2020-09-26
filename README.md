@@ -10,7 +10,7 @@ We don't have an email yet.
 Please make an issue to get our attention!
 
 ## Developers & Moderators
-PigeonVideo is gladly brought to you thanks to all our Developers, Designers, Moderators & Asministrators! They all helped the PenguinVideo Community to become what it is today!
+PigeonVideo is gladly brought to you thanks to all our Developers, Designers, Moderators & Administrators! They all helped the PenguinVideo Community to become what it is today!
 
 ### Administrators
 * LankyBox01
