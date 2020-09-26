@@ -21,8 +21,5 @@ It has unguessable characters, you can't just hack that easily!
 
 **Throwing in some special characters**<br>
 Now, special characters and capitals are needed for a good password.
-Let's look at one password:
-
-Il0vEM0teRCylce$!
-
+Let's look at one password: "Il0vEM0teRCylce$!"
 It's a great password. Using somewords and one special character is not enough. Throw in some numbers and capitals, and special characters!
