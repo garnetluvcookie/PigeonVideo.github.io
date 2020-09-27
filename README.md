@@ -11,7 +11,7 @@ Please make an issue to get our attention!
 
 ## Developers & Moderators
 PigeonVideo is gladly brought to you thanks to all our Developers, Designers & Administrators! They all helped the PenguinVideo Community to become what it is today!
-<br>You can <a href="https://github.com/PigeonVideo/Job-Applying/Issues/New/Choose"> Apply</a>
+<br>You can <a href="https://github.com/PigeonVideo/Job-Applying/Issues/New/Choose"> apply</a>
 (you won't get any profit tough)
 
 ### Administrators
