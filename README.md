@@ -18,8 +18,9 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 ### Developers & Designers
 * Pufferfish101007
 * CarlyRaeJepsenStan
+* LankyBox01
 * aboutDavid
-* Code-alt
+* code-alt
 
 ### Funders
 * None yet
