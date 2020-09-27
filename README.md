@@ -14,7 +14,6 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 
 ### Administrators
 * LankyBox01
-* aboutDavid
 
 ### Developers & Designers
 * Pufferfish101007
