@@ -16,12 +16,12 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 * LankyBox01
 
 ### Developers & Designers
-* Pufferfish101007
-* CarlyRaeJepsenStan
-* LankyBox01
-* aboutDavid
-* code-alt
-* 17lwinn
+* Pufferfish101007 (PHYTON)
+* CarlyRaeJepsenStan (PHYTON)
+* LankyBox01 (JS, HTML, CSS)
+* aboutDavid (BOOTSTRAP)
+* code-alt (BOOTSTRAP)
+* 17lwinn (PHP, FLASK)
 
 ### Funders
-* None yet
+* code-alt (CNAME)
