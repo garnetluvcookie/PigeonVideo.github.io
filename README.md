@@ -13,14 +13,10 @@ Please make an issue to get our attention!
 We are **not responsible** for any copyright infrigements.
 It is the user's responsibility to license the media they use in their videos.
 
-If you think someone is using your copyrighted content, please send us an email containing:
-* Your full name
-* A phone number
-* An email adress
-* The original copyrighted content
-* A link to the video infringing your rights
+If you think someone is using your copyrighted content, please email us immediatly
+
 ### False DMCA claims
-If you're a Pigeon and believe your content was falsely claimed, please email us regarding your claimed video. We will analyse it troughly and decide if the video belongs to the claimant or the video owner.
+If you're a Pigeon and believe your content was falsely claimed, please email us regarding your claimed video.
 
 ## Developers & Moderators
 PigeonVideo is gladly brought to you thanks to all our Developers, Designers & Administrators! They all helped the PigeonVideo Community to become what it is today!
