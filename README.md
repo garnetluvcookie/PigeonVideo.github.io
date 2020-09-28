@@ -22,6 +22,7 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 * **aboutDavid** (BOOTSTRAP)
 * **code-alt** (BOOTSTRAP)
 * **17lwinn** (PHP, FLASK)
+* **Jonyk56** (HTML, CSS, JS, PHYTON)
 
 ### Funders
 * **code-alt** (CNAME)
