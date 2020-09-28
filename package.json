@@ -1,5 +1,5 @@
 {"name": "PigeonVideo",
-"description": "PigeonVideo website",
+"description": "Become a Pigeon and make friends!",
 "version": "1.0.0",
 "dependencies": {
   "express": ">=4.17.1"
