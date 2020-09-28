@@ -13,15 +13,15 @@ Please make an issue to get our attention!
 PigeonVideo is gladly brought to you thanks to all our Developers, Designers & Administrators! They all helped the PigeonVideo Community to become what it is today!
 
 ### Administrators
-* LankyBox01
+* **LankyBox01**
 
 ### Developers & Designers
-* Pufferfish101007 (PHYTON)
-* CarlyRaeJepsenStan (PHYTON)
-* LankyBox01 (JS, HTML, CSS)
-* aboutDavid (BOOTSTRAP)
-* code-alt (BOOTSTRAP)
-* 17lwinn (PHP, FLASK)
+* **Pufferfish101007** (PHYTON)
+* **CarlyRaeJepsenStan** (PHYTON)
+* **LankyBox01** (JS, HTML, CSS)
+* **aboutDavid** (BOOTSTRAP)
+* **code-alt** (BOOTSTRAP)
+* **17lwinn** (PHP, FLASK)
 
 ### Funders
-* code-alt (CNAME)
+* **code-alt** (CNAME)
