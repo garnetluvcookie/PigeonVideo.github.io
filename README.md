@@ -25,4 +25,4 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 * **Jonyk56** (HTML, CSS, JS, PHYTON)
 
 ### Funders
-* **code-alt** (CNAME)
+* None yet
