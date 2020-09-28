@@ -1,1 +1,11 @@
-
+{"name": "PigeonVideo",
+"description": "PigeonVideo website",
+"version": "1.0.0",
+"dependencies": {
+  "express": ">=4.17.1"
+},
+"main": "src/server.js",
+"scripts": {
+  "start": "node src/server.js"
+}
+}
