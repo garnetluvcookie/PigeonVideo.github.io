@@ -20,4 +20,6 @@ f. __Spam, Fake Engagement, Scam, Disinformation or Deceptive Content__
 g. __Copyright-Infringing Content__
 
 __
-## DMCA Takedowns
+## SECTION 3: Copyright Takedowns
+###### 3.1 PigeonVideo strictly prohibits the use of copyrighted content in which the copyright infriger doesn't have a license.
+###### 3.2 If you think that PigronVideo is infringing your rights in any way, do not hesitate to contact us immediatly
