@@ -1,4 +1,4 @@
-# PigeonVideos Terms of Service
+# PigeonVideos Terms of Use
 ___
 ##### SECTION 1: ACCOUNT SUSPENSIONS
 ###### 1.1. Pigeon Video has established an easily accessible means of allowing anyone to notify the availability of infringing, illegal, or adult content by reporting it on the Pigeon Video service.
@@ -21,4 +21,4 @@ g. *Copyright-Infringing Content*
 
 ## SECTION 3: COPYRIGHT TAKEDOWNS
 ###### 3.1. PigeonVideo strictly prohibits the use of copyrighted content in which the copyright infriger doesn't have a license.
-###### 3.2. If you think that PigronVideo is infringing your rights in any way, do not hesitate to contact us immediatly
+###### 3.2. If you think that PigeonVideo is infringing your rights in any way, do not hesitate to contact us immediatly
