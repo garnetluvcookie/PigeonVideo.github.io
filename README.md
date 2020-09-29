@@ -21,13 +21,13 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 * **LankyBox01** (Cookie Manager)
 
 ### Developers & Designers
-* **Pufferfish101007** (PHYTON)
-* **CarlyRaeJepsenStan** (PHYTON)
+* **Pufferfish101007** (PYTHON)
+* **CarlyRaeJepsenStan** (PYTHON)
 * **LankyBox01** (JS, HTML, CSS)
 * **aboutDavid** (BOOTSTRAP)
 * **code-alt** (BOOTSTRAP)
 * **17lwinn** (PHP, FLASK)
-* **Jonyk56** (HTML, CSS, JS, PHYTON)
+* **Jonyk56** (HTML, CSS, JS, PYTHON)
 * **Readtt** (MARKDOWN)
 
 ### Funders
