@@ -15,6 +15,10 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 ### Administrators
 * **LankyBox01**
 
+### Managers
+* **Garnetluvcookie** (Policy Director)
+
+
 ### Developers & Designers
 * **Pufferfish101007** (PHYTON)
 * **CarlyRaeJepsenStan** (PHYTON)
@@ -24,7 +28,6 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 * **17lwinn** (PHP, FLASK)
 * **Jonyk56** (HTML, CSS, JS, PHYTON)
 * **Readtt** (MARKDOWN)
-* **Garnetluvcookie** (MARKDOWN)
 
 ### Funders
 * None yet
