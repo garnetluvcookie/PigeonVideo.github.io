@@ -17,7 +17,7 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 
 ### Managers
 * **Antonionr1** (Administrative Director)
-* **Garnetluvcookie** (Policy Director)
+* **Garnetluvcookie** (Policy Director and Legal "Expert")
 * **LankyBox01** (Cookie Manager)
 
 ### Developers & Designers
