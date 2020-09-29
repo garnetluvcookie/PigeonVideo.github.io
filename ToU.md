@@ -7,19 +7,17 @@ __
 ##### SECTION 2: PROHIBITED CONTENT POLICY
 ###### 2.1. Pigeon Video seeks to help provide users worldwide with a safe, respectful and friendly viewing environment. By banning the following prohibited content, we, at Pigeon Video, seek to protect the community and maintain a secure and happy user-base.
 
-__
+**Types of Prohibited Content**
 
- ___Types of Prohibited Content___
- ___
-a. __Sexually Explicit or Child Abuse Content__
-b. __Harmful, Dangerous, Violent or Illegal Actions in Content__
-c. __Hateful or Excessively Vulgar Speech in Content__
-d. __Graphic, Violent or Repulsive Content__
-e. __Threats, Harassment, and Personal Information in Content__
-f. __Spam, Fake Engagement, Scam, Disinformation or Deceptive Content__
-g. __Copyright-Infringing Content__
+a. *Sexually Explicit or Child Abuse Content*<br>
+b. *Harmful, Dangerous, Violent or Illegal Actions in Content*<br>
+c. *Hateful or Excessively Vulgar Speech in Content*<br>
+d. *Graphic, Violent or Repulsive Content*<br>
+e. *Threats, Harassment, and Personal Information in Content*<br>
+f. *Spam, Fake Engagement, Scam, Disinformation or Deceptive Content*<br>
+g. *Copyright-Infringing Content*
 
-__
+
 ## SECTION 3: Copyright Takedowns
 ###### 3.1 PigeonVideo strictly prohibits the use of copyrighted content in which the copyright infriger doesn't have a license.
 ###### 3.2 If you think that PigronVideo is infringing your rights in any way, do not hesitate to contact us immediatly
