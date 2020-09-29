@@ -2,7 +2,7 @@
 PigeonVideo is a place where you can share your videos around the world!
 
 ## BETA Notice
-This website is still BETA; it's working great, but there are still some bugs here an there.
+This website is still BETA; it's working great, but there are still some bugs here and there.
 If you see a bug or an error, please contact us or make an issue.
 
 ## Contact
