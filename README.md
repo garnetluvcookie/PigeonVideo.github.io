@@ -29,7 +29,6 @@ PigeonVideo is gladly brought to you thanks to all our Developers, Designers & A
 * **17lwinn** (PHP, FLASK)
 * **Jonyk56** (HTML, CSS, JS, PHYTON)
 * **Readtt** (MARKDOWN)
-* **themagiclavalamp** (JS, HTML, MARKDOWN, C++,)
 
 ### Funders
 * None yet
