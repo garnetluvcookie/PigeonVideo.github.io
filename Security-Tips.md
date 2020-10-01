@@ -22,4 +22,7 @@ It has unguessable characters, you can't just hack that easily!
 **Throw in some special characters**<br>
 Now, special characters and capitals are needed for a good password.
 Let's look at one password: "Il0vEM0teRCylce$!"
-It's a great password. Using somewords and one special character is not enough. Throw in some numbers and capitals, and special characters!
+It's a great password. Using somewords and one special character is not enough. Throw in some numbers and capitals, and special characters! But these passwords are hard to remember if you don't have A+ memory, so use your browser's password keychain.
+
+**String words**<br>
+String 4 medium-length unrelated words (e.g. chair, brush, school, fan) together, to make an easily memorable password and one that is hard to guess. Throw in some capital letters and underscores for a secure password.
